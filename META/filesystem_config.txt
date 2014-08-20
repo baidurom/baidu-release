@@ -1899,8 +1899,6 @@ system/lib/hw 0 0 755
 system/lib/ssl/engines 0 0 755
 system/data/misc 0 0 755
 system/bin/WordSegService 0 2000 755
-system/bin/baidu_service 0 2000 755
-system/bin/serviceext 0 2000 755
 system/bin/http2wormhole 0 2000 755
 system/media/bootanimation.zip 0 0 755
 system/media/audio/notifications/PromptTone_02.ogg 0 0 755
