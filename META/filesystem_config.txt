@@ -4199,6 +4199,7 @@ system/app/TelephonyProvider.apk 0 0 755
 system/app/TrafficMonitor.apk 0 0 755
 system/app/Calendar.apk 0 0 755
 system/app/Nfc.apk 0 0 755
+system/app/BaiduCamera.apk 0 0 755
 system/app/FusedLocation.apk 0 0 755
 system/app/BulletinSubPage.apk 0 0 755
 system/app/BaiduServiceFramework.apk 0 0 755
