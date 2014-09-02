@@ -4716,6 +4716,7 @@ system/app/UserDictionaryProvider.apk 0 0 755
 system/app/FusedLocation.apk 0 0 755
 system/app/SystemUI.apk 0 0 755
 system/app/BaiduMap.apk 0 0 755
+system/app/BaiduCamera.apk 0 0 755
 system/app/BaiduVideoPlayer.apk 0 0 755
 system/app/NewPhoneWizard.apk 0 0 755
 system/app/DrmProvider.apk 0 0 755

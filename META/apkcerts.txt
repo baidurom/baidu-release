@@ -7,6 +7,7 @@ name="NotificationProvider.apk" certificate="build/security/platform.x509.pem" p
 name="SettingsProvider.apk" certificate="build/security/platform.x509.pem" private_key="build/security/platform.pk8"
 name="BaiduAntiDisturbance.apk" certificate="build/security/testkey.x509.pem" private_key="build/security/testkey.pk8"
 name="BaiduBackupRestore.apk" certificate="build/security/platform.x509.pem" private_key="build/security/platform.pk8"
+name="BaiduCamera.apk" certificate="build/security/testkey.x509.pem" private_key="build/security/testkey.pk8"
 name="BaiduClickSearch.apk" certificate="build/security/platform.x509.pem" private_key="build/security/platform.pk8"
 name="BaiduClock.apk" certificate="build/security/platform.x509.pem" private_key="build/security/platform.pk8"
 name="FindmeDM.apk" certificate="build/security/platform.x509.pem" private_key="build/security/platform.pk8"
