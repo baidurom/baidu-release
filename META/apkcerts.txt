@@ -366,7 +366,6 @@ name="Calculator.apk" certificate="build/security/testkey.x509.pem" private_key=
 name="Calendar.apk" certificate="build/security/testkey.x509.pem" private_key="build/security/testkey.pk8"
 name="CertInstaller.apk" certificate="build/security/platform.x509.pem" private_key="build/security/platform.pk8"
 name="Contacts.apk" certificate="build/security/shared.x509.pem" private_key="build/security/shared.pk8"
-name="ContactsTests.apk" certificate="build/security/shared.x509.pem" private_key="build/security/shared.pk8"
 name="DeskClock.apk" certificate="build/security/testkey.x509.pem" private_key="build/security/testkey.pk8"
 name="DeskClockTests.apk" certificate="build/security/testkey.x509.pem" private_key="build/security/testkey.pk8"
 name="Email.apk" certificate="build/security/testkey.x509.pem" private_key="build/security/testkey.pk8"
