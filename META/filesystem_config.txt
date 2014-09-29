@@ -1396,7 +1396,6 @@ system/etc/female/com.baidu.home2/weatherwidget/res 0 0 755
 system/etc/female/com.baidu.home2/weatherwidget/res/drawable-xhdpi 0 0 755
 system/tts/lang_pico 0 0 755
 system/app/FindmeDM.apk 0 0 755
-system/app/BulletinSubPage.apk 0 0 755
 system/app/BaiduTheme.apk 0 0 755
 system/app/DynamicPermissionProvider.apk 0 0 755
 system/app/BaiduNetworkLocation.apk 0 0 755
@@ -1435,7 +1434,6 @@ system/app/BaiduGallery3D.apk 0 0 755
 system/app/TelephonyProvider.apk 0 0 755
 system/app/BaiYiSearch.apk 0 0 755
 system/app/BaiduAccount.apk 0 0 755
-system/app/Nfc.apk 0 0 755
 system/app/OnekeyWidget.apk 0 0 755
 system/app/HomePro.apk 0 0 755
 system/app/Calculator.apk 0 0 755
@@ -1461,6 +1459,7 @@ system/app/BaiduDirectShare.apk 0 0 755
 system/app/BaiduLightApp.apk 0 0 755
 system/app/BaiduSoundRecorder.apk 0 0 755
 system/app/BaiduSysFramework.apk 0 0 755
+system/app/YiYueDu.apk 0 0 755
 system/app/Calendar.apk 0 0 755
 system/app/LiveWallpapersPicker.apk 0 0 755
 system/app/BaiduNotepad.apk 0 0 755
@@ -4173,7 +4172,6 @@ system/lib/libcyberplayer.so 0 0 755
 system/lib/libSpeakerRec.so 0 0 755
 system/lib/libJniWordSegService.so 0 0 755
 system/lib/libregister.so 0 0 755
-system/lib/librabjni-for-camera.so 0 0 755
 system/lib/libbdocr.so 0 0 755
 system/lib/libtmfe30.so 0 0 755
 system/lib/libBDVoiceEncoder_V1.so 0 0 755
@@ -4188,7 +4186,9 @@ system/lib/libshare.so 0 0 755
 system/lib/libBaiyiSecurityJni.so 0 0 755
 system/lib/libcyberplayer-core.so 0 0 755
 system/lib/liblocSDK4.so 0 0 755
+system/lib/libjni_mosaic_new.so 0 0 755
 system/lib/libwordseg.so 0 0 755
+system/lib/libjni_tinyplanet.so 0 0 755
 system/lib/libBaiyiAcs.so 0 0 755
 system/lib/libCNPackage.so 0 0 755
 system/lib/libbd_wsp_v1_0.so 0 0 755

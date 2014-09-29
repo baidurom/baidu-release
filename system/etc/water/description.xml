@@ -35,6 +35,16 @@
           <packagename>wallpaper</packagename>
 	</package>
     </module>
+    <module>
+        <component>lockwallpaper</component>
+	<name>锁屏壁纸</name>
+        <cover>/lockwallpaper/preview/cover.png</cover>
+        <preview>/lockwallpaper/preview/</preview>
+        <package>
+          <path>/lockwallpaper/</path>
+          <packagename>lockwallpaper</packagename>
+	</package>
+    </module>
 <!-- 全局 -->
     <module>
         <component>framework</component>
