@@ -4760,8 +4760,8 @@ system/app/ContactsProvider.apk 0 0 755
 system/app/VpnDialogs.apk 0 0 755
 system/app/FindmeDM.apk 0 0 755
 system/app/MediaProvider.apk 0 0 755
+system/app/YiYueDu.apk 0 0 755
 system/app/HomePro.apk 0 0 755
-system/app/BulletinSubPage.apk 0 0 755
 system/app/KeyChain.apk 0 0 755
 system/app/BaiduNetworkLocation.apk 0 0 755
 system/app/SettingsProvider.apk 0 0 755
