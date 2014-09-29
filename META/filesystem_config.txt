@@ -4284,13 +4284,11 @@ system/app/UserDictionaryProvider.apk 0 0 755
 system/app/BaiduInput.apk 0 0 755
 system/app/BaiduLightApp.apk 0 0 755
 system/app/DownloadProviderUi.apk 0 0 755
-system/app/BulletinSubPage.apk 0 0 755
 system/app/SearchBox.apk 0 0 755
 system/app/SystemUI.apk 0 0 755
 system/app/BaiduVideoEditor.apk 0 0 755
 system/app/CalendarProvider.apk 0 0 755
 system/app/TelephonyProvider.apk 0 0 755
-system/app/Nfc.apk 0 0 755
 system/app/InputDevices.apk 0 0 755
 system/app/NewPhoneWizard.apk 0 0 755
 system/app/Tag.apk 0 0 755
@@ -4301,6 +4299,7 @@ system/app/BaiduAppSearch.apk 0 0 755
 system/app/Phone.apk 0 0 755
 system/app/BaiduSync.apk 0 0 755
 system/app/Settings.apk 0 0 755
+system/app/YiYueDu.apk 0 0 755
 system/app/GameCenter.apk 0 0 755
 system/app/BaiduSecurityCenter.apk 0 0 755
 system/app/BaiduSoundRecorder.apk 0 0 755
