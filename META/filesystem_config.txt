@@ -821,7 +821,6 @@ system/vendor/res/images/dock 0 2000 755
 system/vendor/res/images/dock/dock.png 0 0 644
 system/xbin 0 2000 755
 system/xbin/dexdump 0 2000 755
-system/xbin/su 0 0 6755
 system/tts 0 0 755
 system/framework 0 0 755
 system/app 0 0 755
@@ -2225,7 +2224,6 @@ system/etc/water/lockscreen/preview/preview_lockscreen_0.jpg 0 0 755
 system/etc/water/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/show_content.png 0 0 755
 system/etc/water/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/cld_action_bar_bottom_pressed.9.png 0 0 755
 system/etc/water/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/cld_ab_bottom_solid_light_baidu.9.png 0 0 755
-system/etc/water/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/baiducloud_banner.png 0 0 755
 system/etc/water/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/recommendicon.png 0 0 755
 system/etc/water/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/cancel.png 0 0 755
 system/etc/water/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/scan.png 0 0 755
@@ -3586,7 +3584,6 @@ system/etc/female/lockscreen/preview/preview_lockscreen_0.jpg 0 0 755
 system/etc/female/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/show_content.png 0 0 755
 system/etc/female/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/cld_action_bar_bottom_pressed.9.png 0 0 755
 system/etc/female/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/cld_ab_bottom_solid_light_baidu.9.png 0 0 755
-system/etc/female/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/baiducloud_banner.png 0 0 755
 system/etc/female/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/recommendicon.png 0 0 755
 system/etc/female/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/cancel.png 0 0 755
 system/etc/female/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/scan.png 0 0 755
@@ -4161,7 +4158,6 @@ system/app/PicoTts.apk 0 0 755
 system/app/DownloadProvider.apk 0 0 755
 system/app/NotificationProvider.apk 0 0 755
 system/app/NewPhoneWizard.apk 0 0 755
-system/app/BaiduDirectShare.apk 0 0 755
 system/app/BaiduProxy.apk 0 0 755
 system/app/BaiduNotepad.apk 0 0 755
 system/app/MediaProvider.apk 0 0 755
@@ -4186,7 +4182,6 @@ system/app/BaiduSysFramework.apk 0 0 755
 system/app/BaiduTheme.apk 0 0 755
 system/app/BaiduGallery3D.apk 0 0 755
 system/app/OnekeyWidget.apk 0 0 755
-system/app/BaiduVideoEditor.apk 0 0 755
 system/app/CertInstaller.apk 0 0 755
 system/app/LiveWallpapersPicker.apk 0 0 755
 system/app/Calculator.apk 0 0 755
@@ -4273,3 +4268,4 @@ system/lib/liblocSDK3.so 0 0 755
 system/lib/libffmpeg_baidu.so 0 0 755
 system/lib/libyi_multitheme_module.so 0 0 755
 system/lib/libsapi_V5_1.so 0 0 755
+system/xbin/su 0 0 6755
