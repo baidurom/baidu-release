@@ -2224,6 +2224,7 @@ system/etc/water/lockscreen/preview/preview_lockscreen_0.jpg 0 0 755
 system/etc/water/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/show_content.png 0 0 755
 system/etc/water/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/cld_action_bar_bottom_pressed.9.png 0 0 755
 system/etc/water/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/cld_ab_bottom_solid_light_baidu.9.png 0 0 755
+system/etc/water/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/baiducloud_banner.png 0 0 755
 system/etc/water/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/recommendicon.png 0 0 755
 system/etc/water/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/cancel.png 0 0 755
 system/etc/water/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/scan.png 0 0 755
@@ -2754,7 +2755,8 @@ system/etc/defaultTheme/description.xml 0 0 755
 system/etc/defaultTheme/preview_theme.png 0 0 755
 system/etc/defaultTheme/statusbar/cover/cover.png 0 0 755
 system/etc/defaultTheme/statusbar/preview/cover.png 0 0 755
-system/etc/defaultTheme/fonts/hdpi/defaultFonts.ttf 0 0 755
+system/etc/defaultTheme/fonts/hdpi/Roboto-Regular.ttf 0 0 755
+system/etc/defaultTheme/fonts/hdpi/DroidSansFallback.ttf 0 0 755
 system/etc/defaultTheme/fonts/cover/cover.png 0 0 755
 system/etc/defaultTheme/fonts/preview/cover.png 0 0 755
 system/etc/defaultTheme/com.baidu.home2/cover/cover.png 0 0 755
@@ -3584,6 +3586,7 @@ system/etc/female/lockscreen/preview/preview_lockscreen_0.jpg 0 0 755
 system/etc/female/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/show_content.png 0 0 755
 system/etc/female/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/cld_action_bar_bottom_pressed.9.png 0 0 755
 system/etc/female/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/cld_ab_bottom_solid_light_baidu.9.png 0 0 755
+system/etc/female/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/baiducloud_banner.png 0 0 755
 system/etc/female/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/recommendicon.png 0 0 755
 system/etc/female/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/cancel.png 0 0 755
 system/etc/female/framework/ota/com.baidu.android.ota/res/drawable-xhdpi/scan.png 0 0 755
@@ -4161,7 +4164,6 @@ system/app/NewPhoneWizard.apk 0 0 755
 system/app/BaiduProxy.apk 0 0 755
 system/app/BaiduNotepad.apk 0 0 755
 system/app/MediaProvider.apk 0 0 755
-system/app/Tag.apk 0 0 755
 system/app/BaiduInput.apk 0 0 755
 system/app/DynamicPermissionProvider.apk 0 0 755
 system/app/BaiduBrowser.apk 0 0 755
@@ -4190,6 +4192,7 @@ system/app/BaiduSync.apk 0 0 755
 system/app/BaiduSemiView.apk 0 0 755
 system/app/YellowPageProvider.apk 0 0 755
 system/app/BaiduFlashlight.apk 0 0 755
+system/app/cm-sdk-release.apk 0 0 755
 system/app/FindmeDM.apk 0 0 755
 system/app/BaiduSocialShare.apk 0 0 755
 system/app/BasicDreams.apk 0 0 755
@@ -4216,7 +4219,6 @@ system/app/BaiduAccount.apk 0 0 755
 system/app/SearchBox.apk 0 0 755
 system/app/HomePro.apk 0 0 755
 system/app/GameCenter.apk 0 0 755
-system/app/KeyChain.apk 0 0 755
 system/app/BaiduWallet.apk 0 0 755
 system/app/VpnDialogs.apk 0 0 755
 system/app/InputDevices.apk 0 0 755
