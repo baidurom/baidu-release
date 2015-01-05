@@ -6,5 +6,5 @@ system_size=0x30100000
 userdata_size=0x30100000
 extfs_sparse_flag=-s
 default_system_dev_certificate=build/security/testkey
-tool_extensions=/work/src/platform/smali-mtk-4.2-release/devices/base/
+tool_extensions=/data/work/src/platform/smali-mtk-4.2-release/devices/base/
 fstab_version=1
